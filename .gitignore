@@ -1,0 +1,37 @@
+# Maven build output
+**/target/
+
+# Compiled Java artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper artifacts
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.claude/settings.local.json
+.cph/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build tools
+**/build/
+**/out/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment and logs
+.env
+*.log
